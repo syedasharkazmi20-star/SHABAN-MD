@@ -1,15 +1,15 @@
 {
-  "name": "SHABAN-MD",
+  "name": "ASHAR-MD",
   "version": "6.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR Ashar",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "stop": "pm2 stop ASHAR-MD",
+    "restart": "pm2 restart ASHAR-MD"
   },
   "keywords": [
-    "shaban-md",
+    "ashar-md",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
